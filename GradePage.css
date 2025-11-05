@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+    position: fixed;
+    top:5px;
+    left: 700px;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    color:rgba(14, 14, 14, 0.65);
+    position: fixed;
+    top:80px;
+    left: 500px;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 50px;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 600px;
+}
+
+img{
+    position: absolute;
+    top: 220px;
+    left: 600px;
+    width: 440px;
+    border-radius: 100px;
+
+}
+
+
