@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    position: fixed;
+    top:5px;
+    left: 600px;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 50px;
+    
+}
+
+#first_name{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+}
+
+#last_name{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+}
+
+#email_address{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+}
+
+#password{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+}
+
+#re_password{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+}
+
+form{
+    
+    width: 35%;
+    height: 40%;
+    position: absolute;
+    top: 150px;
+    left: 37%;
+}
+
+.button{
+    position: absolute;
+    left: 130px;
+    height: 65px;
+    width: 150px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    border-color: yellow;
+    background-color: yellow;
+    font-weight:bold;
+    font-size: 30px;
+    color:rgba(14, 14, 14, 0.65);
+    border: none; 
+
+}
