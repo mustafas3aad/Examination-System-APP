@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+}
+
+.form{
+    background-color:black;
+    width: 35%;
+    height: 40%;
+    position: absolute;
+    top: 30%;
+    left: 32.5%;
+}
+
+#email_address{
+    margin: 0 auto;
+    width: 530px;
+    height: 65px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+    
+}
+
+#password{
+    margin: 0 auto;
+    width: 530px;
+    height: 65px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    padding-left: 20px;
+    text-align: left;
+    outline: none;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    position: fixed;
+    top:20px;
+    left: 650px;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 90px;
+    
+}
+
+.button{
+    position: absolute;
+    bottom: 90px;
+    left: 710px;
+    height: 65px;
+    width: 150px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    border-color: yellow;
+    background-color: yellow;
+    font-weight:bold;
+    font-size: 30px;
+    color:rgba(14, 14, 14, 0.65); 
+
+}
+/* 
+#email_address::placeholder{
+    color: rgba(120, 120, 120, 0.65); 
+    font-size: 18px;
+    font-style: italic;
+    opacity: 1;
+    text-align: center;
+}
+
+#password::placeholder{
+    color: rgba(120, 120, 120, 0.65); 
+    font-size: 18px;
+    font-style: italic;
+    opacity: 1;
+    text-align: center;
+} */
+
+/* .button::-ms-value{
+
+} */
